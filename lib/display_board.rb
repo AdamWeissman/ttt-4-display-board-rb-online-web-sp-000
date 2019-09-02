@@ -2,4 +2,4 @@
 # out the current state.
 
 board = Array.new(9, " ")
-puts board
+board
