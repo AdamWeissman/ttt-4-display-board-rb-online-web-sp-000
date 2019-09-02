@@ -1,5 +1,5 @@
 # Define display_board that accepts a board and prints
 # out the current state.
 
-board = Array.new(9, " ")
+board = Array.new(9, "X")
 board
